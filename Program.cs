@@ -11,6 +11,7 @@ namespace Trivia
         {
             GameRunner.main(new String[2]);
             System.Console.ReadKey();
+			
         }
     }
 }
